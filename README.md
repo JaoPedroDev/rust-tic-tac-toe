@@ -1,4 +1,4 @@
-# rust-tic-tac-toe
+# Rust Tic Tac Toe
 CLI Tic Tac Toe game written in Rust Lang
 
 To clone and compile, run this:
